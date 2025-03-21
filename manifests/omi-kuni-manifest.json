@@ -1,0 +1,281 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://eliaskreyenbuehl.github.io/CAS2025/manifests/omi-kuni-manifest.json",
+  "type" : "Manifest",
+  "label" : {
+    "none" : [ "Ōmi Kuni-ezu -- 近江國絵圖" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "none" : [ "Available Online" ]
+    },
+    "value" : {
+      "none" : [ "<a href='https://purl.stanford.edu/hs631zg4177'>https://purl.stanford.edu/hs631zg4177</a>" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Title" ]
+    },
+    "value" : {
+      "none" : [ "Ōmi Kuni-ezu" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Title" ]
+    },
+    "value" : {
+      "none" : [ "近江國絵圖" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Type" ]
+    },
+    "value" : {
+      "none" : [ "cartographic image" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Format" ]
+    },
+    "value" : {
+      "none" : [ "1 map : color ; 345 x 504 cm" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Format" ]
+    },
+    "value" : {
+      "none" : [ "unmediated" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Language" ]
+    },
+    "value" : {
+      "none" : [ "jpn" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Coverage" ]
+    },
+    "value" : {
+      "none" : [ "Japan" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Coverage" ]
+    },
+    "value" : {
+      "none" : [ "Omi prefecture" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Coverage" ]
+    },
+    "value" : {
+      "none" : [ "Scale 1:21,600." ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Date" ]
+    },
+    "value" : {
+      "none" : [ "1837" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Date" ]
+    },
+    "value" : {
+      "none" : [ "1837" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Publisher" ]
+    },
+    "value" : {
+      "none" : [ "Publisher not given," ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Identifier" ]
+    },
+    "value" : {
+      "none" : [ "https://purl.stanford.edu/hs631zg4177" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "PublishDate" ]
+    },
+    "value" : {
+      "none" : [ "2025-03-11T17:45:21Z" ]
+    }
+  } ],
+  "requiredStatement" : {
+    "label" : {
+      "none" : [ "Attribution" ]
+    },
+    "value" : {
+      "none" : [ "This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission." ]
+    }
+  },
+  "thumbnail" : [ {
+    "id" : "https://stacks.stanford.edu/image/iiif/hs631zg4177/hs631zg4177_00_0001/full/!400,400/0/default.jpg",
+    "type" : "Image",
+    "format" : "image/jpeg",
+    "height" : 267,
+    "width" : 400,
+    "service" : [ {
+      "@id" : "https://stacks.stanford.edu/image/iiif/hs631zg4177/hs631zg4177_00_0001",
+      "@type" : "ImageService2",
+      "profile" : "level2"
+    } ]
+  } ],
+  "provider" : [ {
+    "id" : "http://example.org/provider",
+    "type" : "Agent",
+    "label" : {
+      "none" : [ "Unknown" ]
+    },
+    "logo" : [ {
+      "id" : "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+      "type" : "Image",
+      "service" : [ {
+        "@id" : "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+        "@type" : "ImageService2",
+        "profile" : "level2"
+      } ]
+    } ]
+  } ],
+  "seeAlso" : [ {
+    "id" : "https://purl.stanford.edu/hs631zg4177.mods",
+    "type" : "Dataset",
+    "format" : "application/mods+xml"
+  } ],
+  "items" : [ {
+    "id" : "https://purl.stanford.edu/hs631zg4177/iiif/canvas/cocina-fileSet-hs631zg4177-hs631zg4177_1",
+    "type" : "Canvas",
+    "height" : 22939,
+    "width" : 34342,
+    "label" : {
+      "none" : [ "Ōmi Kuni-ezu" ]
+    },
+    "rendering" : [ {
+      "id" : "https://stacks.stanford.edu/file/hs631zg4177/hs631zg4177_00_0001.jp2",
+      "type" : "Image",
+      "format" : "image/jp2",
+      "label" : {
+        "none" : [ "Original source file (142 MB)" ]
+      }
+    } ],
+    "items" : [ {
+      "id" : "https://purl.stanford.edu/hs631zg4177/iiif/canvas/cocina-fileSet-hs631zg4177-hs631zg4177_1/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://purl.stanford.edu/hs631zg4177/iiif/annotation/cocina-fileSet-hs631zg4177-hs631zg4177_1",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://purl.stanford.edu/hs631zg4177/iiif/canvas/cocina-fileSet-hs631zg4177-hs631zg4177_1",
+        "body" : {
+          "id" : "https://stacks.stanford.edu/image/iiif/hs631zg4177/hs631zg4177_00_0001/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 22939,
+          "width" : 34342,
+          "service" : [ {
+            "@id" : "https://stacks.stanford.edu/image/iiif/hs631zg4177/hs631zg4177_00_0001",
+            "@type" : "ImageService2",
+            "profile" : "level2",
+            "id" : "https://stacks.stanford.edu/image/iiif/hs631zg4177/hs631zg4177_00_0001"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://purl.stanford.edu/hs631zg4177/iiif/manifest/canvas/19rvv2p89i4-m87v9tid",
+    "type" : "Canvas",
+    "height" : 10610,
+    "width" : 14148,
+    "label" : {
+      "en" : [ "Kun yu tu" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://www.e-manuscripta.ch/i3f/v21/2356505/full/304/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 227,
+      "width" : 304
+    } ],
+    "items" : [ {
+      "id" : "https://purl.stanford.edu/hs631zg4177/iiif/manifest/canvas/19rvv2p89i4-m87v9tid/annotation-page/28o8q9kzsh1-m87v9tid",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://purl.stanford.edu/hs631zg4177/iiif/manifest/annotation/1zi7wu5m8hm-m87v9tic",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://purl.stanford.edu/hs631zg4177/iiif/manifest/canvas/19rvv2p89i4-m87v9tid#xywh=2829,2122,8488,6366",
+        "timeMode" : "scale",
+        "body" : {
+          "id" : "https://www.e-manuscripta.ch/i3f/v20/2356505/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 10610,
+          "width" : 14148,
+          "service" : [ {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-manuscripta.ch/i3f/v20/2356505",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "regionSquare", "rotationArbitrary", "sizeAboveFull", "sizeByConfinedWh", "sizeByDistortedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg" ]
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "width" : 14148,
+            "height" : 10610,
+            "sizes" : [ {
+              "width" : 128,
+              "height" : 96
+            }, {
+              "width" : 304,
+              "height" : 228
+            }, {
+              "width" : 504,
+              "height" : 378
+            }, {
+              "width" : 800,
+              "height" : 600
+            }, {
+              "width" : 1000,
+              "height" : 750
+            }, {
+              "width" : 1200,
+              "height" : 900
+            }, {
+              "width" : 1504,
+              "height" : 1128
+            }, {
+              "width" : 2000,
+              "height" : 1500
+            }, {
+              "width" : 4000,
+              "height" : 3000
+            }, {
+              "width" : 6000,
+              "height" : 4500
+            }, {
+              "width" : 8000,
+              "height" : 5999
+            }, {
+              "width" : 10000,
+              "height" : 7499
+            }, {
+              "width" : 14148,
+              "height" : 10610
+            } ],
+            "id" : "https://www.e-manuscripta.ch/i3f/v20/2356505"
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}

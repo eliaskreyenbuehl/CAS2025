@@ -1,0 +1,15 @@
+{
+  "id" : "https://eliaskreyenbuehl.github.io/CAS2025/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in eliaskreyenbuehl/CAS2025 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://eliaskreyenbuehl.github.io/CAS2025/manifests/manifest001.json",
+    "label" : {
+      "none" : [ "Ōmi Kuni-ezu -- 近江國絵圖" ]
+    },
+    "type" : "Manifest"
+  } ]
+}

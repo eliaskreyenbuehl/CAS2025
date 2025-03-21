@@ -11,5 +11,11 @@
       "none" : [ "Ōmi Kuni-ezu -- 近江國絵圖" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://eliaskreyenbuehl.github.io/CAS2025/manifests/omi-kuni-manifest.json",
+    "label" : {
+      "none" : [ "Ōmi Kuni-ezu -- 近江國絵圖" ]
+    },
+    "type" : "Manifest"
   } ]
 }
